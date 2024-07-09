@@ -1,14 +1,13 @@
-﻿using System.Configuration.Assemblies;
-using CalculatorLib;
+﻿using CalculatorLib;
 class Program
 {
 	static void Main()
 	{
 		string ulang;
+		Calculator calculatorApp = new Calculator();
 		do
 		{
 			// Pemilihan Jenis Operasi
-			Calculator calculatorApp = new Calculator();
 			Console.Write("A = Penjumlahan\n");
 			Console.Write("B = Penguragan\n");
 			Console.Write("C = Perkalian\n");
@@ -34,30 +33,26 @@ class Program
 			{
 				case "a":
 					int resultPenjumlahan = calculatorApp.Penjumlahan(numberA, numberB);
-					Console.WriteLine("Hasil Penjumlahan adalah : " + resultPenjumlahan);
+					Console.WriteLine("Hasil Penjumlahan antara {0} dan {1} adalah {2}: ", numberA, numberB, resultPenjumlahan);
 					break;
 				case "b":
 					int resultPengurangan = calculatorApp.Pengurangan(numberA, numberB);
-					Console.WriteLine("Hasil Pengurangan adalah : " + resultPengurangan);
+					Console.WriteLine("Hasil Pengurangan antara {0} dan {1} adalah {2}: ", numberA, numberB, resultPengurangan);
 					break;
 				case "c":
 					int resultPerkalian = calculatorApp.Perkalian(numberA, numberB);
-					Console.WriteLine("Hasil Perkalian adalah : " + resultPerkalian);
+					Console.WriteLine("Hasil Perkalian antara {0} dan {1} adalah {2}: ", numberA, numberB, resultPerkalian);
 					break;
 				case "d":
 					int resultPembagian = calculatorApp.Pembagian(numberA, numberB);
-					Console.WriteLine("Hasil Pembagian adalah : " + resultPembagian);
+					Console.WriteLine("Hasil Pembagian antara {0} dan {1} adalah {2}: ", numberA, numberB, resultPembagian);
 					break;
 				default:
 					Console.WriteLine("Pilihan tidak valid.");
 					break;
 			}
-
-
 			Console.Write("Apakah Anda ingin melakukan operasi lagi? (y/n) ");
 			ulang = Console.ReadLine().ToLower();
 		} while (ulang == "y");
-
 	}
-
 }
