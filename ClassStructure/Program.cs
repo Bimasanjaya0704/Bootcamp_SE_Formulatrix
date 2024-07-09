@@ -15,7 +15,7 @@ class Program
 		Pitbul.name = "heyo";
 		Pitbul.age = 5;
 		Pitbul.color = "black";
-
+		Console.WriteLine("Nama : {0}, umur : {1}, dan warna {2} ", Pitbul.name, Pitbul.age, Pitbul.color);
 
 	}
 }
