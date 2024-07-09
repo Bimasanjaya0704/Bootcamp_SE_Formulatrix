@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\bin\Debug\net8.0\Class_Diagram.exe
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\bin\Debug\net8.0\Class_Diagram.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\bin\Debug\net8.0\Class_Diagram.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\bin\Debug\net8.0\Class_Diagram.dll
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\bin\Debug\net8.0\Class_Diagram.pdb
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.dll
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\refint\Class_Diagram.dll
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.pdb
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\Class_Diagram.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\Class_Diagram\obj\Debug\net8.0\ref\Class_Diagram.dll

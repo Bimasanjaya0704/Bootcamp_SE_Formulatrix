@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\bin\Debug\net8.0\ClassStructure.exe
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\bin\Debug\net8.0\ClassStructure.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\bin\Debug\net8.0\ClassStructure.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\bin\Debug\net8.0\ClassStructure.dll
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\bin\Debug\net8.0\ClassStructure.pdb
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.dll
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\refint\ClassStructure.dll
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.pdb
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ClassStructure.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\ClassStructure\obj\Debug\net8.0\ref\ClassStructure.dll
