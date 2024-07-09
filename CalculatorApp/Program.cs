@@ -17,7 +17,7 @@ class Program
 
 			// Kondisi jika memasukan input selain pilihan
 			string pilihan = Console.ReadLine().ToLower();
-			while (pilihan != "c" && pilihan != "b" && pilihan != "c" && pilihan != "d")
+			while (pilihan != "a" && pilihan != "b" && pilihan != "c" && pilihan != "d")
 			{
 				Console.WriteLine("Pilihan tidak valid. Silakan pilih A, B, C, atau D.");
 				pilihan = Console.ReadLine().ToLower();

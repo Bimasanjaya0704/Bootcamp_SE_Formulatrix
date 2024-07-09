@@ -12,3 +12,4 @@ C:\Users\Batch 11\Bootcamp_SE11\CalculatorApp\obj\Debug\net8.0\refint\Calculator
 C:\Users\Batch 11\Bootcamp_SE11\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
 C:\Users\Batch 11\Bootcamp_SE11\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\Batch 11\Bootcamp_SE11\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
+C:\Users\Batch 11\Bootcamp_SE11\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
