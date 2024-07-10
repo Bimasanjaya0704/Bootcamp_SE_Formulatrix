@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\bin\Debug\net8.0\InheritanceComposition.exe
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\bin\Debug\net8.0\InheritanceComposition.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\bin\Debug\net8.0\InheritanceComposition.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\bin\Debug\net8.0\InheritanceComposition.dll
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\bin\Debug\net8.0\InheritanceComposition.pdb
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.dll
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\refint\InheritanceComposition.dll
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.pdb
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\InheritanceComposition.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\InheritanceComposition\obj\Debug\net8.0\ref\InheritanceComposition.dll
