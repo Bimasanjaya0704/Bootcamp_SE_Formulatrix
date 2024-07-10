@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CarBody;
+
+class Program
+{
+	static void Main()
+	{
+		Car car = new Car();
+
+	}
+}

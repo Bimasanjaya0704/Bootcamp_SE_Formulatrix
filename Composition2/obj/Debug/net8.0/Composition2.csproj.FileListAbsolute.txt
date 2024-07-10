@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\bin\Debug\net8.0\Composition2.exe
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\bin\Debug\net8.0\Composition2.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\bin\Debug\net8.0\Composition2.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\bin\Debug\net8.0\Composition2.dll
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\bin\Debug\net8.0\Composition2.pdb
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.dll
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\refint\Composition2.dll
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.pdb
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\Composition2.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\Composition2\obj\Debug\net8.0\ref\Composition2.dll
