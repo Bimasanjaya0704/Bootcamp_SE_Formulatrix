@@ -4,6 +4,7 @@ public class Mother
 {
 	public string name;
 	public int age;
+
 	public Mother(string name, int age)
 	{
 		this.name = name;
@@ -17,6 +18,9 @@ public class Mother
 
 	public void SetNik(int newNik)
 	{
-		_nik = newNik;
+		if (newNik > 0 && newNik <= 16)
+		{
+			_nik = newNik;
+		}
 	}
 }

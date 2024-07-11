@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\bin\Debug\net8.0\A_Internal_Encapsulation.exe
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\bin\Debug\net8.0\A_Internal_Encapsulation.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\bin\Debug\net8.0\A_Internal_Encapsulation.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\bin\Debug\net8.0\A_Internal_Encapsulation.dll
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\bin\Debug\net8.0\A_Internal_Encapsulation.pdb
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.dll
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\refint\A_Internal_Encapsulation.dll
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.pdb
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\A_Internal_Encapsulation.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\A_Internal_Encapsulation\obj\Debug\net8.0\ref\A_Internal_Encapsulation.dll
