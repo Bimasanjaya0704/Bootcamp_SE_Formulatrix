@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_Internal_Encapsulation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationDefault", "EncapsulationDefault\EncapsulationDefault.csproj", "{920DB3F1-C9E7-40D3-B021-9ABD437E25C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphysmOveriding", "PolymorphysmOveriding\PolymorphysmOveriding.csproj", "{C5B1E9F0-84D8-4752-936D-1C33931F6025}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +121,10 @@ Global
 		{920DB3F1-C9E7-40D3-B021-9ABD437E25C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{920DB3F1-C9E7-40D3-B021-9ABD437E25C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{920DB3F1-C9E7-40D3-B021-9ABD437E25C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B1E9F0-84D8-4752-936D-1C33931F6025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B1E9F0-84D8-4752-936D-1C33931F6025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B1E9F0-84D8-4752-936D-1C33931F6025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B1E9F0-84D8-4752-936D-1C33931F6025}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		SolutionGuid = {E14B05C1-E337-4841-8D3D-A1C491AF3111}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{C5B1E9F0-84D8-4752-936D-1C33931F6025} = {E4E0CD4D-8EF7-4FF7-A849-4C075904DB61}
 		{920DB3F1-C9E7-40D3-B021-9ABD437E25C2} = {E4E0CD4D-8EF7-4FF7-A849-4C075904DB61}
 		{E50096E0-A554-44F5-B9E7-14338D26919F} = {E4E0CD4D-8EF7-4FF7-A849-4C075904DB61}
 		{10F0FE78-039E-41EC-B225-D1FA20AEF51C} = {E4E0CD4D-8EF7-4FF7-A849-4C075904DB61}
