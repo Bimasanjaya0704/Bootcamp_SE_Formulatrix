@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\bin\Debug\net8.0\UnlimitedParams.exe
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\bin\Debug\net8.0\UnlimitedParams.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\bin\Debug\net8.0\UnlimitedParams.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\bin\Debug\net8.0\UnlimitedParams.dll
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\bin\Debug\net8.0\UnlimitedParams.pdb
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.dll
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\refint\UnlimitedParams.dll
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.pdb
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\UnlimitedParams.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\UnlimitedParams\obj\Debug\net8.0\ref\UnlimitedParams.dll
