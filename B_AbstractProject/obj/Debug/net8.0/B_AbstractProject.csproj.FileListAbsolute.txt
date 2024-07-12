@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\bin\Debug\net8.0\B_AbstractProject.exe
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\bin\Debug\net8.0\B_AbstractProject.deps.json
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\bin\Debug\net8.0\B_AbstractProject.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\bin\Debug\net8.0\B_AbstractProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\bin\Debug\net8.0\B_AbstractProject.pdb
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\refint\B_AbstractProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.pdb
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\B_AbstractProject.genruntimeconfig.cache
+C:\Users\Batch 11\Bootcamp_SE11\B_AbstractProject\obj\Debug\net8.0\ref\B_AbstractProject.dll

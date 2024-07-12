@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolymorphysmOverloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9777bdd1e9007749dd8e86b8b289ce36ca05fc7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87dff823a44b7753bb2d287136f9d09ad985617")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolymorphysmOverloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolymorphysmOverloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
