@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\bin\Debug\net8.0\C_Interface.exe
+c:\Users\Batch 11\Bootcamp_SE11\C_Interface\bin\Debug\net8.0\C_Interface.deps.json
+c:\Users\Batch 11\Bootcamp_SE11\C_Interface\bin\Debug\net8.0\C_Interface.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\bin\Debug\net8.0\C_Interface.dll
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\bin\Debug\net8.0\C_Interface.pdb
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.dll
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\refint\C_Interface.dll
+C:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.pdb
+c:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\C_Interface.genruntimeconfig.cache
+c:\Users\Batch 11\Bootcamp_SE11\C_Interface\obj\Debug\net8.0\ref\C_Interface.dll
