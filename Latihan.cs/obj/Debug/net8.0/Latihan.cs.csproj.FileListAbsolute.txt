@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\bin\Debug\net8.0\Latihan.cs.exe
+c:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\bin\Debug\net8.0\Latihan.cs.deps.json
+c:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\bin\Debug\net8.0\Latihan.cs.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\bin\Debug\net8.0\Latihan.cs.dll
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\bin\Debug\net8.0\Latihan.cs.pdb
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.dll
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\refint\Latihan.cs.dll
+C:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.pdb
+c:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\Latihan.cs.genruntimeconfig.cache
+c:\Users\Batch 11\Bootcamp_SE11\Latihan.cs\obj\Debug\net8.0\ref\Latihan.cs.dll

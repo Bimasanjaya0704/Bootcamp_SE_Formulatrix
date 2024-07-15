@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj": {}
+    "c:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj": {
+    "c:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj",
         "projectName": "Latihan.cs",
-        "projectPath": "C:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj",
+        "projectPath": "c:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\Latihan.cs.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\obj\\",
+        "outputPath": "c:\\Users\\Batch 11\\Bootcamp_SE11\\Latihan.cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
