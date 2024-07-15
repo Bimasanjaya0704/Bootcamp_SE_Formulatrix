@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueInsideReference", "Val
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{EBE3BCE5-A94B-4D98-8EDD-1D3DC3839381}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out", "Out\Out.csproj", "{4E241599-9BAE-467E-9100-53335D6BD9FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{EBE3BCE5-A94B-4D98-8EDD-1D3DC3839381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE3BCE5-A94B-4D98-8EDD-1D3DC3839381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE3BCE5-A94B-4D98-8EDD-1D3DC3839381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E241599-9BAE-467E-9100-53335D6BD9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E241599-9BAE-467E-9100-53335D6BD9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E241599-9BAE-467E-9100-53335D6BD9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E241599-9BAE-467E-9100-53335D6BD9FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
