@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\bin\Debug\net8.0\StaticProject.exe
+c:\Users\Batch 11\Bootcamp_SE11\StaticProject\bin\Debug\net8.0\StaticProject.deps.json
+c:\Users\Batch 11\Bootcamp_SE11\StaticProject\bin\Debug\net8.0\StaticProject.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\bin\Debug\net8.0\StaticProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\bin\Debug\net8.0\StaticProject.pdb
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\refint\StaticProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.pdb
+c:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\StaticProject.genruntimeconfig.cache
+c:\Users\Batch 11\Bootcamp_SE11\StaticProject\obj\Debug\net8.0\ref\StaticProject.dll
