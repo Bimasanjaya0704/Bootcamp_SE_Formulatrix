@@ -65,6 +65,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAY 6", "DAY 6", "{B8D93579
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesProject", "PropertiesProject\PropertiesProject.csproj", "{E6CCCE1B-AF1E-4DA7-958F-528DD2976550}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan.cs", "Latihan.cs\Latihan.cs.csproj", "{17D510A5-E21F-427B-804A-533597046484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{E6CCCE1B-AF1E-4DA7-958F-528DD2976550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6CCCE1B-AF1E-4DA7-958F-528DD2976550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6CCCE1B-AF1E-4DA7-958F-528DD2976550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D510A5-E21F-427B-804A-533597046484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D510A5-E21F-427B-804A-533597046484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D510A5-E21F-427B-804A-533597046484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D510A5-E21F-427B-804A-533597046484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +185,7 @@ Global
 		SolutionGuid = {E14B05C1-E337-4841-8D3D-A1C491AF3111}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{17D510A5-E21F-427B-804A-533597046484} = {B8D93579-3241-4866-B7E4-430D616DD8A3}
 		{E6CCCE1B-AF1E-4DA7-958F-528DD2976550} = {B8D93579-3241-4866-B7E4-430D616DD8A3}
 		{AFDF6754-6F0C-4E62-B268-58EACA7ADF22} = {FE7C95E2-5373-4D0D-8813-14D9A52C262B}
 		{9318940F-C832-44F8-B7FF-2046372B95BD} = {FE7C95E2-5373-4D0D-8813-14D9A52C262B}
