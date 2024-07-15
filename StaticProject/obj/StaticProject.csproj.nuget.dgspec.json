@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj": {}
+    "C:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj": {
+    "C:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj",
         "projectName": "StaticProject",
-        "projectPath": "c:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\StaticProject.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Bootcamp_SE11\\StaticProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
