@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\bin\Debug\net8.0\PropertiesProject.exe
+c:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\bin\Debug\net8.0\PropertiesProject.deps.json
+c:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\bin\Debug\net8.0\PropertiesProject.runtimeconfig.json
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\bin\Debug\net8.0\PropertiesProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\bin\Debug\net8.0\PropertiesProject.pdb
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.AssemblyInfo.cs
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.sourcelink.json
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\refint\PropertiesProject.dll
+C:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.pdb
+c:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\PropertiesProject.genruntimeconfig.cache
+c:\Users\Batch 11\Bootcamp_SE11\PropertiesProject\obj\Debug\net8.0\ref\PropertiesProject.dll

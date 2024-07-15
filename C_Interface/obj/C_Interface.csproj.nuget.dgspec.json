@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj": {}
+    "C:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj": {
+    "C:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj",
         "projectName": "C_Interface",
-        "projectPath": "c:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\C_Interface.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Bootcamp_SE11\\C_Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
