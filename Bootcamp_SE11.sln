@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorGenericNumber", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_CalculatorGenericNumber", "B_CalculatorGenericNumber\B_CalculatorGenericNumber.csproj", "{DE1D1E9B-C823-42C1-8712-5F4DB2481AD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{6DC08F1A-3082-4C76-8846-D8F234DF4C63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{DE1D1E9B-C823-42C1-8712-5F4DB2481AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1D1E9B-C823-42C1-8712-5F4DB2481AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1D1E9B-C823-42C1-8712-5F4DB2481AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC08F1A-3082-4C76-8846-D8F234DF4C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC08F1A-3082-4C76-8846-D8F234DF4C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC08F1A-3082-4C76-8846-D8F234DF4C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC08F1A-3082-4C76-8846-D8F234DF4C63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -275,6 +281,7 @@ Global
 		SolutionGuid = {E14B05C1-E337-4841-8D3D-A1C491AF3111}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{6DC08F1A-3082-4C76-8846-D8F234DF4C63} = {CF0E515D-1D6E-4B9C-A73F-F6511E91C3DF}
 		{DE1D1E9B-C823-42C1-8712-5F4DB2481AD9} = {CF0E515D-1D6E-4B9C-A73F-F6511E91C3DF}
 		{4DD3EE89-A268-4E16-87E3-A122C86D57D8} = {CF0E515D-1D6E-4B9C-A73F-F6511E91C3DF}
 		{E4E0CD4D-8EF7-4FF7-A849-4C075904DB61} = {E4E0CD4D-8EF7-4FF7-A849-4C075904DB61}
