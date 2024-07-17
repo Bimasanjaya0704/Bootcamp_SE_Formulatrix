@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class_Diagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eeb1e161a2cdc1ecc983630579d0611642f4638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa65c8a02e3f3c080cdb4614239f1940b1187a0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class_Diagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class_Diagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
