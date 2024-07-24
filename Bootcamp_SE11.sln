@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch2", "TryCatch2\TryCatch2.csproj", "{DE83B30F-091A-4CC8-9536-AF8071D4410A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatcyFinnaly", "TryCatcyFinnaly\TryCatcyFinnaly.csproj", "{CE2E9C75-7473-4C12-8145-AF5A74C38539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{DE83B30F-091A-4CC8-9536-AF8071D4410A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE83B30F-091A-4CC8-9536-AF8071D4410A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE83B30F-091A-4CC8-9536-AF8071D4410A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2E9C75-7473-4C12-8145-AF5A74C38539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2E9C75-7473-4C12-8145-AF5A74C38539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2E9C75-7473-4C12-8145-AF5A74C38539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2E9C75-7473-4C12-8145-AF5A74C38539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -419,6 +425,7 @@ Global
 		SolutionGuid = {E14B05C1-E337-4841-8D3D-A1C491AF3111}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{CE2E9C75-7473-4C12-8145-AF5A74C38539} = {AB302365-1D50-4736-B69B-99DDEFC88AB2}
 		{DE83B30F-091A-4CC8-9536-AF8071D4410A} = {AB302365-1D50-4736-B69B-99DDEFC88AB2}
 		{C7CEB8BD-741B-407D-A36E-EAA7D30D9520} = {AB302365-1D50-4736-B69B-99DDEFC88AB2}
 		{5DC72D0F-9A26-462B-99B2-6402B9AEDEC6} = {AB302365-1D50-4736-B69B-99DDEFC88AB2}
