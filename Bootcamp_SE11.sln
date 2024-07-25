@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -164,6 +164,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalizers", "Finalizers\Finalizers.csproj", "{1A5348A9-1091-48C6-882F-9C716D1500F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC_LOH", "GC_LOH\GC_LOH.csproj", "{3B3EE61A-B62D-4C65-8E6E-0172D9D51894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalizersInheritance", "FinalizersInheritance\FinalizersInheritance.csproj", "{141DDFBC-7036-44AD-840B-880F59E53976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWithFinalizers", "ClassWithFinalizers\ClassWithFinalizers.csproj", "{0B3425CF-C86C-4EBF-99A1-0DD792A1D860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWithoutFinalizers", "ClassWithoutFinalizers\ClassWithoutFinalizers.csproj", "{2E936E69-A5A8-4BD9-9090-9F44D17149B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -443,6 +449,18 @@ Global
 		{3B3EE61A-B62D-4C65-8E6E-0172D9D51894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B3EE61A-B62D-4C65-8E6E-0172D9D51894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B3EE61A-B62D-4C65-8E6E-0172D9D51894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141DDFBC-7036-44AD-840B-880F59E53976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141DDFBC-7036-44AD-840B-880F59E53976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141DDFBC-7036-44AD-840B-880F59E53976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141DDFBC-7036-44AD-840B-880F59E53976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3425CF-C86C-4EBF-99A1-0DD792A1D860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3425CF-C86C-4EBF-99A1-0DD792A1D860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3425CF-C86C-4EBF-99A1-0DD792A1D860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3425CF-C86C-4EBF-99A1-0DD792A1D860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E936E69-A5A8-4BD9-9090-9F44D17149B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E936E69-A5A8-4BD9-9090-9F44D17149B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E936E69-A5A8-4BD9-9090-9F44D17149B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E936E69-A5A8-4BD9-9090-9F44D17149B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
