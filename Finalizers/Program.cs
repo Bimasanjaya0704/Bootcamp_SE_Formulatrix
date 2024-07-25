@@ -6,7 +6,7 @@
 	}
 	~Car()
 	{
-		Console.WriteLine($"Car Destructed save Genato {GC.GetGeneration(this)}!!");
+		Console.WriteLine($"Car Destructed save Gen {GC.GetGeneration(this)}!!");
 	}
 }
 
@@ -16,6 +16,7 @@ public class Program
 	{
 		createInctance();
 		GC.Collect();
+		GC.WaitForPendingFinalizers();
 	}
 
 	static void createInctance()
