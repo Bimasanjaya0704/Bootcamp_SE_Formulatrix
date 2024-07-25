@@ -173,6 +173,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWithoutFinalizers", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposePattern", "DisposePattern\DisposePattern.csproj", "{858B4BC7-12BA-4B06-BCFD-11CC8FFEA51C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using", "Using\Using.csproj", "{23C7E607-EF8D-4256-BC12-6B4B6C5E4845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -467,6 +469,10 @@ Global
 		{858B4BC7-12BA-4B06-BCFD-11CC8FFEA51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{858B4BC7-12BA-4B06-BCFD-11CC8FFEA51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{858B4BC7-12BA-4B06-BCFD-11CC8FFEA51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C7E607-EF8D-4256-BC12-6B4B6C5E4845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C7E607-EF8D-4256-BC12-6B4B6C5E4845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C7E607-EF8D-4256-BC12-6B4B6C5E4845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C7E607-EF8D-4256-BC12-6B4B6C5E4845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -475,6 +481,7 @@ Global
 		SolutionGuid = {E14B05C1-E337-4841-8D3D-A1C491AF3111}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{23C7E607-EF8D-4256-BC12-6B4B6C5E4845} = {5383A5FC-FAF3-4BE3-B6E5-A1492C17189D}
 		{858B4BC7-12BA-4B06-BCFD-11CC8FFEA51C} = {5383A5FC-FAF3-4BE3-B6E5-A1492C17189D}
 		{141DDFBC-7036-44AD-840B-880F59E53976} = {5383A5FC-FAF3-4BE3-B6E5-A1492C17189D}
 		{2E936E69-A5A8-4BD9-9090-9F44D17149B2} = {5383A5FC-FAF3-4BE3-B6E5-A1492C17189D}
