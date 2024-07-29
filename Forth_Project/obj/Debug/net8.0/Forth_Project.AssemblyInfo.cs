@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forth_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5d953ddcdb57bbf625dbcedd7853be0455353b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6984d507355c71ff2612475438996001a6905b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forth_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forth_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
