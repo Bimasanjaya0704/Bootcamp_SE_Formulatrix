@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Name>Werkudara</Name>
+    <Id>1</Id>
+    <Data>
+      <Health>100</Health>
+      <IdPlayer>1</IdPlayer>
+      <Coin>0</Coin>
+    </Data>
+  </Player>
+  <Player>
+    <Name>Bima</Name>
+    <Id>2</Id>
+    <Data>
+      <Health>100</Health>
+      <IdPlayer>2</IdPlayer>
+      <Coin>0</Coin>
+    </Data>
+  </Player>
+  <Player>
+    <Name>Nakula</Name>
+    <Id>3</Id>
+    <Data>
+      <Health>100</Health>
+      <IdPlayer>3</IdPlayer>
+      <Coin>0</Coin>
+    </Data>
+  </Player>
+  <Player>
+    <Name>Sadewa</Name>
+    <Id>4</Id>
+    <Data>
+      <Health>100</Health>
+      <IdPlayer>4</IdPlayer>
+      <Coin>0</Coin>
+    </Data>
+  </Player>
+</ArrayOfPlayer>
